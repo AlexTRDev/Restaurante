@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="STD.UNPRG">
+            <file>file:/D:/TamyDevJava/Restaurante/src/modelo/Entidades/Persona.java</file>
+            <file>file:/D:/TamyDevJava/Restaurante/src/modelo/Entidades/Producto.java</file>
+        </group>
+        <group>
+            <file>file:/D:/TamyDevJava/Restaurante/src/modelo/dao/PersonaDAO.java</file>
+            <file>file:/D:/TamyDevJava/Restaurante/src/modelo/AccesoBD/UsuariosAD.java</file>
+            <file>file:/D:/TamyDevJava/Restaurante/src/modelo/Entidades/Persona.java</file>
+            <file>file:/D:/TamyDevJava/Restaurante/src/modelo/dao/interfaces/metodosDAO.java</file>
+            <file>file:/D:/TamyDevJava/Restaurante/src/modelo/Entidades/Usuarios.java</file>
+            <file>file:/D:/TamyDevJava/Restaurante/src/modelo/AccesoBD/Conexion.java</file>
+            <file>file:/D:/TamyDevJava/Restaurante/src/modelo/Entidades/test.java</file>
+            <file>file:/D:/TamyDevJava/Restaurante/src/modelo/AccesoBD/test.java</file>
+            <file>file:/D:/TamyDevJava/Restaurante/src/modelo/Entidades/Producto.java</file>
+        </group>
+        <group name="COER"/>
+    </open-files>
+</project-private>
